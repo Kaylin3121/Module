@@ -1,13 +1,8 @@
 # Module 
 I'm kaylin. Guess how old I am. 
 
+This folder contains my answer to the who am I question. 
 
-I know this presentation is almost over. 
-
-Something that is important to me is finishing this project. 
-
-
-Home. I'm going home after this. 
-
-
-Confusion is possible. People get confused by questions like this. 
+Current: /Users/student/desktop/Module/whoamI 
+previous: /Users/student/desktop/Module 
+Next:/Users/student/desktop/Module/backup
